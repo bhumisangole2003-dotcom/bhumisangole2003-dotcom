@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 **Hello Professionals!**<br><br>I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and supporting data-driven decision-making. I’m continuously developing my technical skills in data analysis, visualization, and business intelligence to solve real-world problems using data.<br><br>📊 **My Core Technology Stack:**<br><br>✔️ **Programming:** Python<br><br>✔️ **Data Analysis:** Pandas, NumPy<br><br>✔️ **Data Visualization:** Matplotlib, Seaborn<br><br>✔️ **Database Management:** SQL, MySQL<br><br>✔️ **Business Intelligence:** Power BI, Dashboard Development, Data Reporting<br><br>✔️ **Microsoft Excel:** Data Cleaning, PivotTables, Lookup Functions, Charts<br><br>✔️ **Data Analytics:** Exploratory Data Analysis (EDA), Data Cleaning, Data Preprocessing, Statistical Analysis<br><br>✔️ **Core Skills:** Analytical Thinking, Problem-Solving, Attention to Detail<br><br>✔️ **Tools & Platforms:** Jupyter Notebook, Git, GitHub, VS Code<br><br>💡 **Passionate About:** Data Analytics | Data Visualization | Business Intelligence | Statistical Analysis | Data-Driven Decision-Making | Continuous Learning<br><br>🎯 **Career Goal:** To begin my career as a Data Analyst, apply my analytical skills to real-world business problems, and turn data into actionable insights.<br><br>🤝 Always eager to connect with professionals, collaborate on projects, share knowledge, and explore new opportunities in data analytics!<br><br>#DataAnalytics #DataAnalyst #Python #SQL #PowerBI #Excel #DataVisualization #EDA #Pandas #NumPy
 
-<!--
-**bhumisangole2003-dotcom/bhumisangole2003-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhumi-sangole-dataanalyst) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhumisangole2003-dotcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhumisangole2003-dotcom&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhumisangole2003-dotcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=bhumisangole2003-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
